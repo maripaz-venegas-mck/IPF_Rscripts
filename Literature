@@ -1,10 +1,30 @@
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.723&rep=rep1&type=pdf
+Useful for activity based microsimulation, which needs a population. Fron census-based marginal distribution to household joint distribution for a population at small level geographies. Iterative Proportional Updating algorith: generate synthetic populations that match household-level and person-level characteristics.
+
 https://www.sciencedirect.com/science/article/pii/S2352146516306925?ref=pdf_download&fr=RR-2&rr=9dfa86906da32d4e
+State of art of IPF. Starting point: Actibity based travel demand modeling. 
+
 https://livrepository.liverpool.ac.uk/3174081/1/569514.pdf
+Thesis of Maja Zaloznik: Iterative Proportional Fitting, Theretical Synthesis and Practical Limitations. It uses UK census microdata. 
+
 https://www.tandfonline.com/doi/epdf/10.1080/00330124.2015.1099449?needAccess=true
+Introduction to IPF. 
+
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008828
+Iterative semi-stochastic algorithm. Use of aggregate data to generate artificial sets of individuals and households. Individual data to cross with the aggregate properties are not available.
+
 https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12802
-https://ieeexplore.ieee.org/abstract/document/9104929
+Structure preserving estimation to update census + auxiliary information to take into account population shifts (satellite imagery)
+"This study has demonstrated in a case study how auxiliary information such as satellite imagery can be used to potentially improve the availability of relevant key statistics for small areas between census years by strengthening the population margins especially in regions exhibiting strong population growth."
+
+https://ieeexplore.ieee.org/abstract/document/9104929 - not available
+Iterative proportional updating, using bilevel optimization to satisfy individual and household level constraints at the same time. 
+
 https://ucm.on.worldcat.org/oclc/5356149747
+Generating disaggregates spatial data froma ggregated data. 
+
 https://ucm.on.worldcat.org/oclc/8017125423
+Downscaled energy demand projection at the local level using the Iterative Proportional Fitting procedure
+
 https://ucm.on.worldcat.org/oclc/5153446268
+IPFSR (synthetic reconstruction method) vs Combinatorial optimization method
